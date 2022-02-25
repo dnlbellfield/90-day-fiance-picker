@@ -5,7 +5,7 @@ A couple / background picker app with JavaScript DOM manipulation
 
 **Link to project:** (soon)
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](https://user-images.githubusercontent.com/47239035/155676336-1ffe32c3-43b0-4331-ba55-d4b460954764.png)
 
 ## How It's Made:
 
