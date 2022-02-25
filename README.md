@@ -5,7 +5,7 @@ A couple / background picker with JavaScript DOM manipulation
 **Link to project:** https://90daypicker.netlify.app/
 
 ![alt tag](https://user-images.githubusercontent.com/47239035/155676336-1ffe32c3-43b0-4331-ba55-d4b460954764.png)
-<iframe src="https://giphy.com/embed/WxqHPqobrwjUBbXkJY" width="480" height="236" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/WxqHPqobrwjUBbXkJY">via GIPHY</a></p>
+(https://giphy.com/embed/WxqHPqobrwjUBbXkJY)
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript 
