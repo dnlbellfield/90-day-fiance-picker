@@ -14,21 +14,20 @@ A couple / background picker app with JavaScript DOM manipulation
 Through JavaScript we have the ability to manipulate the DOM. Every single time you click on a button, the app is going to render the change through javascript and can see the change to the HTML in the browser.
 
 ## Lessons Learned:
-Create a list, a ul in the HTML file
-Then add an eventlistener / onclick Event for each "li" list item in the JavaScript File.
+Front end is fun!!!
+Whats Happening? We create a list in our HTML to hold our "couples".
+In our JS file we add an onclick event for each list item.
 Each list item will be a couple you can "pick".
 
-when you click an element with an id of a couples name
+when you click a list item (a couples name) something funny happens
 
-document.getElementById('kim-usman').onclick = kimUsman
+ex: document.getElementById('kim-usman').onclick = kimUsman 
 
-A function should be listening for an event, the run the function with the same couple name 
-
-kimUsman()
-
-Then when the click event happens on the li element, this function, or any couplesName function kimUsman(), calebAlina() will run and change the background and add an image of the couple, the couples name, location, age, and story should also render to the page. 
+A function should be listening for that 'click' event and then run a function that changes the background, adds an image of the couple, the couples name, location, age, and story. These changes will render to the page after you click an item in the list.
 
 I hope you found it enetertaining or fun.
+
+mdn references 
 
 The DOM API allows for  quick and efficient builds, it's a great tool for frontend/ UI experience!
 The Document Object Model (DOM) connects web pages to scripts or programming languages by representing the structure of a document—such as the HTML representing a web page—in memory. Usually it refers to JavaScript.
