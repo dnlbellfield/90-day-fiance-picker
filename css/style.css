@@ -107,3 +107,7 @@ ul {
   margin: 0 auto;
   visibility: hidden;
 }
+
+.li:hover {
+  opacity: .75;
+}
