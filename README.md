@@ -24,7 +24,7 @@ ex: document.getElementById('kim-usman').onclick = kimUsman
 
 A function should be listening for that 'click' event and then run a function that changes the background, adds an image of the couple, the couples name, location, age, and story. These changes will render to the page after you click an item in the list.
 
-I hope you found it enetertaining or fun.
+I hope you found it entertaining or fun. There is a lot to clean up / refactor, but I wanted to get something up in one night.
 
 mdn references 
 
