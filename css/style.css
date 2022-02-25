@@ -108,6 +108,6 @@ ul {
   visibility: hidden;
 }
 
-.li:hover {
+li:hover {
   opacity: .75;
 }
