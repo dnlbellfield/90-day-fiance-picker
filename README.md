@@ -1,5 +1,5 @@
 
-# JavaScript- 90 Day Fiance Picker
+# JavaScript- 90 Day Fiance Couple Picker
 A couple / background picker with JavaScript DOM manipulation
 
 **Link to project:** https://90daypicker.netlify.app/
