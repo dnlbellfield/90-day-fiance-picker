@@ -9,7 +9,7 @@ document.getElementById('ben-mahogany').onclick = benMahogany
 
 function kimUsman() {
   document.getElementsByClassName('img')[0].style.backgroundImage = "url('img/kim-usman.jpeg')";
-  document.getElementById('video').src = 'video/kim-usman-edit.mov';
+  document.getElementById('video').src = 'video/kim.mp4';
   
   const coupleAgeLocation = document.getElementById('couple-age-location');
   coupleAgeLocation.style.backgroundColor = 'rgba(236, 159, 58, 1)';
@@ -25,7 +25,7 @@ function kimUsman() {
 
 function calebAlina() {
   document.getElementsByClassName('img')[0].style.backgroundImage = "url('img/caleb-alina.jpeg')";
-  document.getElementById('video').src = 'video/caleb-alina-edit.mov';
+  document.getElementById('video').src = 'video/caleb.mp4';
 
   const coupleAgeLocation = document.getElementById('couple-age-location');
   coupleAgeLocation.style.backgroundColor = 'rgba(236, 159, 58, 1)';
@@ -42,7 +42,7 @@ function calebAlina() {
 
 function ginoJasmine() {
   document.getElementsByClassName('img')[0].style.backgroundImage = "url('img/gino-jasmine.jpeg')";
-  document.getElementById('video').src = 'video/gino-jamsmine-edit.mov';
+  document.getElementById('video').src = 'video/gino.mp4';
 
   const coupleAgeLocation = document.getElementById('couple-age-location');
   coupleAgeLocation.style.backgroundColor = 'rgba(236, 159, 58, 1)';
@@ -61,7 +61,7 @@ function ginoJasmine() {
 
 function memphisHamza() {
   document.getElementsByClassName('img')[0].style.backgroundImage = "url('img/memphis-hamza.jpeg')";
-  document.getElementById('video').src = 'video/memphis-hamza-edit.mov';
+  document.getElementById('video').src = 'video/memphis.mp4';
   
   const coupleAgeLocation = document.getElementById('couple-age-location');
   coupleAgeLocation.style.backgroundColor = 'rgba(236, 159, 58, 1)';
@@ -78,7 +78,7 @@ function memphisHamza() {
 
 function mikeXimena() {
   document.getElementsByClassName('img')[0].style.backgroundImage = "url('img/mike-ximena.jpeg')";
-  document.getElementById('video').src = 'video/mike-ximena-edit.mov';
+  document.getElementById('video').src = 'video/mike.mp4';
   
   const coupleAgeLocation = document.getElementById('couple-age-location');
   coupleAgeLocation.style.backgroundColor = 'rgba(236, 159, 58, 1)';
@@ -94,7 +94,7 @@ function mikeXimena() {
 
 function ellaJohnny() {
   document.getElementsByClassName('img')[0].style.backgroundImage = "url('img/ella-johnny.jpeg')";
-  document.getElementById('video').src = 'video/ella-johnny-edit.mov';
+  document.getElementById('video').src = 'video/ella.mp4';
   
   const coupleAgeLocation = document.getElementById('couple-age-location');
   coupleAgeLocation.style.backgroundColor = 'rgba(236, 159, 58, 1)';
@@ -110,7 +110,7 @@ function ellaJohnny() {
 
 function benMahogany() {
   document.getElementsByClassName('img')[0].style.backgroundImage = "url('img/ben-mahogany.jpeg')";
-  document.getElementById('video').src = 'video/ben-mahogany-edit.mov';
+  document.getElementById('video').src = 'video/ben.mp4';
   
   const coupleAgeLocation = document.getElementById('couple-age-location');
   coupleAgeLocation.style.backgroundColor = 'rgba(236, 159, 58, 1)';
